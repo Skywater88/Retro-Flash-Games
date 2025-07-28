@@ -15,3 +15,4 @@ GAMES
 8. **Burrito Bison Revenge**: No description yet. I haven't played.
 9. **Red Remover**: A puzzle game where you destroy the red colored shapes while keeping other colors.
 10. **Jewelanche**: Match 3 (or more) puzzle game where you fight againt time.
+11. **Arcane: Online Mystery (1-8)**: Horror detective game with an amazing story! One Of the best!
