@@ -5,7 +5,7 @@ Flash games that we all love! I'll add more games in time!
 
 GAMES
 =========
-(Currently **30** games present)
+(Currently **33** games present)
 - **Viking Valor**: Addictive viking tower defence. One of the best!
 - **3 Pandas**: Help pandas through their journey! One of the best!
 - **Submachine**: Point-and-click room-escape/adventure game. First began by Mateusz Skutnik. One of the best!
@@ -22,3 +22,5 @@ GAMES
 - **Midnight Spooks 2**: To win a mysterious photo, you need to solve various puzzles! One of the funniest!
 - ***Vortex Point (1-8)***: Help a group of paranormal investigators to solve crimes! One of the best!
 - **Monster Saga**: No description yet, I haven't played the game yet.
+- **Johnny Rocketfingers (1-2)**: Help Johnny to destroy gansters! CAUTION: Intense violence, graphic bloodshed. 18+ is advised.
+- **Super Soldier**: Fight with a whole army as a lone wolf super soldier. Highly addictive!
