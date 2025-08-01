@@ -4,7 +4,7 @@ Flash games that we all love! I'll add more games in time!
 
 GAMES
 =========
-(Currently **19** games present)
+(Currently **21** games present)
 1. **Viking Valor**: Addictive viking tower defence. One of the best!
 2. **3 Pandas**: Help pandas through their journey! One of the best!
 3. **Submachine**: Point-and-click room-escape/adventure game. First began by Mateusz Skutnik. One of the best!
@@ -15,5 +15,7 @@ GAMES
 8. **Burrito Bison Revenge**: No description yet. I haven't played.
 9. **Red Remover**: A puzzle game where you destroy the red colored shapes while keeping other colors.
 10. **Jewelanche**: Match 3 (or more) puzzle game where you fight againt time.
-11. **Arcane: Online Mystery (1-8)**: Horror detective game with an amazing story! One Of the best!
-12. **3D Logic**: Connect dots with lines on a Rubic's Cube. Epic puzzle game!
+11-18. **Arcane: Online Mystery (1-8)**: Horror detective game with an amazing story! One Of the best!
+19. **3D Logic**: Connect dots with lines on a Rubic's Cube. Epic puzzle game!
+20. **Like Vampire Like Son**: As a human born from a vampie, you must turn yourself into a vampire; somehow! One of the funniest!
+21. **Midnight Spooks 2**: To win a mysterious photo, you need to solve various puzzles! One of the funniest!
