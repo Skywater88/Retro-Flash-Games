@@ -5,7 +5,7 @@ Flash games that we all love! I'll add more games in time!
 
 GAMES
 =========
-(Currently **29** games present)
+(Currently **30** games present)
 - **Viking Valor**: Addictive viking tower defence. One of the best!
 - **3 Pandas**: Help pandas through their journey! One of the best!
 - **Submachine**: Point-and-click room-escape/adventure game. First began by Mateusz Skutnik. One of the best!
@@ -20,4 +20,5 @@ GAMES
 - **3D Logic**: Connect dots with lines on a Rubic's Cube. Epic puzzle game!
 - **Like Vampire Like Son**: As a human born from a vampie, you must turn yourself into a vampire; somehow! One of the funniest!
 - **Midnight Spooks 2**: To win a mysterious photo, you need to solve various puzzles! One of the funniest!
-- ***Vortex Point (1-8)***: Help a group of paranormal investigators to solve crimes! One of the best! 
+- ***Vortex Point (1-8)***: Help a group of paranormal investigators to solve crimes! One of the best!
+- **Monster Saga**: No description yet, I haven't played the game yet.
