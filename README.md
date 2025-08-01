@@ -1,10 +1,11 @@
 # Retro-Flash-Games
 Flash games that we all love! I'll add more games in time!
+
 ------------------------------------------------------------------------
 
 GAMES
 =========
-(Currently **21** games present)
+(Currently **29** games present)
 1. **Viking Valor**: Addictive viking tower defence. One of the best!
 2. **3 Pandas**: Help pandas through their journey! One of the best!
 3. **Submachine**: Point-and-click room-escape/adventure game. First began by Mateusz Skutnik. One of the best!
@@ -19,3 +20,4 @@ GAMES
 19. **3D Logic**: Connect dots with lines on a Rubic's Cube. Epic puzzle game!
 20. **Like Vampire Like Son**: As a human born from a vampie, you must turn yourself into a vampire; somehow! One of the funniest!
 21. **Midnight Spooks 2**: To win a mysterious photo, you need to solve various puzzles! One of the funniest!
+22-29. ***Vortex Point (1-8)***: Help a group of paranormal investigators to solve crimes! One of the best! 
