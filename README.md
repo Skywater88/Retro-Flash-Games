@@ -5,7 +5,7 @@ Flash games that we all love! I'll add more games in time!
 
 GAMES
 =========
-(Currently **33** games present)
+(Currently **37** games present)
 - **Viking Valor**: Addictive viking tower defence. One of the best!
 - **3 Pandas**: Help pandas through their journey! One of the best!
 - **Submachine**: Point-and-click room-escape/adventure game. First began by Mateusz Skutnik. One of the best!
@@ -24,3 +24,5 @@ GAMES
 - **Monster Saga**: No description yet, I haven't played the game yet.
 - **Johnny Rocketfingers (1-2)**: Help Johnny to destroy gansters! CAUTION: Intense violence, graphic bloodshed. 18+ is advised.
 - **Super Soldier**: Fight with a whole army as a lone wolf super soldier. Highly addictive!
+- **Maze Evolution (1-3)**: Control a little star and pass very hard mazes, be fast as possible and beware the obstacles. One of the hardest!
+- **Open Doors 2**: Open and close doors and create a path to reach "X". One of the hardest!
