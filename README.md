@@ -5,7 +5,7 @@ Flash games that we all love! I'll add more games in time!
 
 GAMES
 =========
-(Currently **37** games present)
+(Currently **41** games present)
 - **Viking Valor**: Addictive viking tower defence. One of the best!
 - **3 Pandas**: Help pandas through their journey! One of the best!
 - **Submachine**: Point-and-click room-escape/adventure game. First began by Mateusz Skutnik. One of the best!
@@ -26,3 +26,7 @@ GAMES
 - **Super Soldier**: Fight with a whole army as a lone wolf super soldier. Highly addictive!
 - **Maze Evolution (1-3)**: Control a little star and pass very hard mazes, be fast as possible and beware the obstacles. One of the hardest!
 - **Open Doors 2**: Open and close doors and create a path to reach "X". One of the hardest!
+- **Must Escape The Subway**: You fall asleep at subway metro and now you are stucked at subway, you gotta escape.
+- **Dude and Zombies**: Fight zombies, fix your car and run away!
+- **Lady Pirate**: Dress up game. Thats all.
+- **My Friend Pedro**: Fight gansters with the support of a banana! Good game!
