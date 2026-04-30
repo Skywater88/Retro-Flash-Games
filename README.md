@@ -30,3 +30,6 @@ GAMES
 - **Dude and Zombies**: Fight zombies, fix your car and run away!
 - **Lady Pirate**: Dress up game. Thats all.
 - **My Friend Pedro**: Fight gansters with the support of a banana! Good game!
+
+----
+[![Star History Chart](https://app.repohistory.com/api/svg?repo=Skywater88/Retro-Flash-Games&type=Date&background=0D1117&color=f862d3)](https://app.repohistory.com/star-history)
